@@ -1,2 +1,2 @@
 # Promps
-Prompts ready to use
+Ready-to-use prompts
